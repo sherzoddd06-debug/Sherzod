@@ -1,0 +1,27 @@
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+body > * {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: "► ";
+    padding-left: 20px;
+}
