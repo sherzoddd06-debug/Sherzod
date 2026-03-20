@@ -1,0 +1,3 @@
+GTM-WK8C39S 
+G-G3XX4KH62Y
+I am tracking visits to the Menu page. The conversion fires as a GA4 event called view_menu_page whenever the Page URL contains /menu.
