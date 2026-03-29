@@ -1,0 +1,17 @@
+# Brand Persona: Sher’s Café
+
+### Personality & Tone
+**Urban Chic & Warmth**
+Sher’s Café is sophisticated yet approachable. It blends high-end specialty coffee culture with the cozy feel of a local neighborhood spot. The vibe is clean, modern, and aesthetically "Instagrammable," emphasizing craftsmanship and quality.
+
+### Color Palette
+* **Deep Charcoal (#2B2D42):** Used for high-contrast typography and sleek UI elements.
+* **Honey Gold (#D4A373):** Used for action buttons, icons, and highlights.
+* **Soft Linen (#EDF2F4):** Used as the primary background for a clean, airy feel.
+
+### Typography Suggestions (Google Fonts)
+* **Headings:** Playfair Display (Bold) – An elegant serif font that conveys an artisanal feel.
+* **Body:** Lato (Regular) – A clean, modern sans-serif font for maximum readability.
+
+### Marketing Pitch
+"Sher’s Café is where urban rhythm meets the perfect brew, offering a sanctuary for those who value artisanal quality and aesthetic comfort. Transform your daily caffeine ritual into an inspired moment of calm in the heart of the city."

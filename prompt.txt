@@ -1,0 +1,5 @@
+Create a high-fidelity mobile UI design for 'Sher's Café' website.
+Style: Urban Chic and Warm.
+Colors: Deep Charcoal (#2B2D42), Honey Gold (#D4A373), and Soft Linen (#EDF2F4).
+Fonts: Elegant serif for headings, clean sans-serif for body.
+Features: Hero section with 'The coziest place in the city' text, an artisanal coffee image, 'Featured Brews' section with cards, and a prominent 'Order Now' button
