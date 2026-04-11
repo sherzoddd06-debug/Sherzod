@@ -1,0 +1,34 @@
+
+Create a "Loyalty Club" / "Student Guide" form to exchange a value for an email.
+
+* **Install WPForms:** Install and activate the WPForms plugin from the WordPress repository.
+* **Create Form:** Create a new form titled ''Shers Cafe".
+* **Add Fields:** Add the following required fields:
+    * `Name`
+    * `Email Address`
+
+* **GDPR Checkbox:** Mandatory checkbox at the bottom: *“I agree to the Privacy Policy and to receive coffee-related updates.”*
+* **Setup Confirmation (Thank You):** Change the "Confirmation Message" to: *“Welcome to the Brew Crew! Your 2-for-1 coffee voucher is being roasted and will arrive in your inbox shortly.”*
+* **Setup Notifications:** Ensure the "Admin Email" notification is set to your address.
+
+#### 2. Visual & Structural Redesign
+
+Update the cafe's landing page (image_1.png) to match the modern, conversion-focused design (image_2.png).
+
+* **Hero Section Enhancement:**
+    * Significantly increase the size of the main heading **"Sher’s Cafe"**.
+    * Integrate the cafe interior photo (image_1.png) as a full-width background with a soft, warm overlay.
+    * **Add Call-to-Action (CTA):** Add a terracotta-colored button titled **"VIEW FULL MENU"** below the text.
+* **New Section:** Add a **"Featured Today"** section below the main hero area. Include three distinct product cards (e.g., "Artisan Flat White," "Avocado Toast," "Muffins").
+* **Footer Update:** Update the footer to include standard copyright and project credits (e.g., *"Design: Web-and-mobile-apps student project"*).
+
+#### 3. Technical Optimization (SEO & Performance)
+
+Improve on the initial Lighthouse score (image_4.png: 95 Performance, 54 SEO).
+
+* **Performance (95 -> 100):** Focus on Largest Contentful Paint (LCP), which is the primary bottleneck.
+    * **Image Optimization:** Compress all images (especially the large hero photo). Use modern formats like **WebP** instead of PNG and explicitly declare height/width attributes in HTML.
+* **SEO (54 -> ~90+):** Add proper meta-tags.
+    * **Structure & Meta:** Add unique `<title>` and `<description>` meta-tags for the page. Ensure the header "Sher’s Cafe" uses an `<h1>` tag, and sub-headers (like "Featured Today") use `<h2>`.
+
+***
