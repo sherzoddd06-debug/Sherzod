@@ -1,0 +1,10 @@
+1. The Coupon:
+My coupon code is SHERCOFES. The business logic is to incentivize the first purchase for new customers by offering a 15% discount on orders over 100 CZK, valid for 30 days.
+
+2. The Automation:
+The "Welcome Email" is an automated message sent immediately after a user joins the "Brew Crew" list.
+
+Subject Line: Welcome to the Brew Crew! Here is your 15% discount code.
+
+3. The Data Strategy:
+I will use the "Favorite Coffee" info to segment my audience. For example, if a customer selects "Latte" as their favorite, I will send them targeted emails when we introduce new plant-based milk options or special flavored syrups
